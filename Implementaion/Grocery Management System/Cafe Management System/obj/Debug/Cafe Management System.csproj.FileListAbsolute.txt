@@ -1,0 +1,15 @@
+D:\ddoocp\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+D:\ddoocp\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+D:\ddoocp\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+D:\ddoocp\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csprojResolveAssemblyReference.cache
+D:\ddoocp\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+D:\ddoocp\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.Cache
+D:\ddoocp\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+D:\ddoocp\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+D:\ddoocp\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.item.resources
+D:\ddoocp\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Users.resources
+D:\ddoocp\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.usertype.resources
+D:\ddoocp\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Bill.resources
+D:\ddoocp\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.dashboard.resources
+D:\ddoocp\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Sum.resources
+D:\ddoocp\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Login.resources
