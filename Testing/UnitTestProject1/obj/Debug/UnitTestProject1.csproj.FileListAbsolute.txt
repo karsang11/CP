@@ -1,0 +1,8 @@
+D:\ddoocp\Grocery Management Systems\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\ddoocp\Grocery Management Systems\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\ddoocp\Grocery Management Systems\UnitTestProject1\bin\Debug\Grocery Management Systems.exe
+D:\ddoocp\Grocery Management Systems\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ddoocp\Grocery Management Systems\UnitTestProject1\bin\Debug\Grocery Management Systems.pdb
+D:\ddoocp\Grocery Management Systems\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\ddoocp\Grocery Management Systems\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\ddoocp\Grocery Management Systems\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
